@@ -1,0 +1,23 @@
+{
+  "name": "simpletoken",
+  "version": "1.0.0",
+  "description": "SimpleToken is a learning project showcasing the basics of creating and transferring ERC-20 tokens on Ethereum using Solidity, Truffle, and a Node.js-Web3.js backend.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.11.5"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "web3": "^4.8.0"
+  }
+}
