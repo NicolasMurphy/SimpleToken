@@ -2,7 +2,7 @@
   "name": "simpletoken",
   "version": "1.0.0",
   "description": "SimpleToken is a learning project showcasing the basics of creating and transferring ERC-20 tokens on Ethereum using Solidity, Truffle, and a Node.js-Web3.js backend.",
-  "main": "truffle-config.js",
+  "main": "server.js",
   "directories": {
     "test": "test"
   },
@@ -20,6 +20,6 @@
     "@openzeppelin/contracts": "4.9.6",
     "express": "^4.19.2",
     "solc": "^0.8.19",
-    "web3": "^4.8.0"
+    "web3": "^1.10.4"
   }
 }
